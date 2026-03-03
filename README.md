@@ -131,3 +131,8 @@ Run:
 
 #### POST http://localhost:8080/api/v1/shipping-charge/calculate
 
+## Future Enhancements:
+###### - Docker containerization
+###### - Microservice decomposition
+###### - Redis caching
+###### - PostgreSQL migration
