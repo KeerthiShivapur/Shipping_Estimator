@@ -106,13 +106,14 @@ Express Delivery (adds additional charge)
 This design allows easy extension for future delivery types without modifying existing logic.
 
 ✨ Key Highlights
-✔ Clean layered architecture
-✔ Strategy Pattern for extensible delivery logic
-✔ Haversine formula for geographic distance calculation
-✔ Dynamic transport mode selection
-✔ Structured JSON error handling
-✔ Production-ready response formatting (rounded values)
-✔ Easily extensible and maintainable design
+
+## ✔ Clean layered architecture
+## ✔ Strategy Pattern for extensible delivery logic
+## ✔ Haversine formula for geographic distance calculation
+## ✔ Dynamic transport mode selection
+## ✔ Structured JSON error handling
+## ✔ Production-ready response formatting (rounded values)
+## ✔ Easily extensible and maintainable design
 
 ▶️ How to Run
 Clone the repository
@@ -120,7 +121,7 @@ Navigate to project root (where pom.xml exists)
 Run:
 
 
-mvn clean install
+## mvn clean install
 mvn spring-boot:run
 Application starts at:
 
