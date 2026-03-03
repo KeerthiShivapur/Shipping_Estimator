@@ -108,12 +108,12 @@ This design allows easy extension for future delivery types without modifying ex
 ✨ Key Highlights
 
 ###### ✔ Clean layered architecture
-## ✔ Strategy Pattern for extensible delivery logic
-## ✔ Haversine formula for geographic distance calculation
-## ✔ Dynamic transport mode selection
-## ✔ Structured JSON error handling
-## ✔ Production-ready response formatting (rounded values)
-## ✔ Easily extensible and maintainable design
+###### ✔ Strategy Pattern for extensible delivery logic
+###### ✔ Haversine formula for geographic distance calculation
+###### ✔ Dynamic transport mode selection
+###### ✔ Structured JSON error handling
+###### ✔ Production-ready response formatting (rounded values)
+###### ✔ Easily extensible and maintainable design
 
 ▶️ How to Run
 Clone the repository
@@ -121,16 +121,13 @@ Navigate to project root (where pom.xml exists)
 Run:
 
 
-## mvn clean install
-mvn spring-boot:run
-Application starts at:
+##### mvn clean install
+##### mvn spring-boot:run
+##### Application starts at:
 
-http://localhost:8080
-🧪 Testing
-APIs tested using Postman.
-Example endpoint:
-Copy code
+##### http://localhost:8080
+#### 🧪 Testing
+#### APIs tested using Postman.
 
-POST http://localhost:8080/api/v1/shipping-charge/calculate
-📬 Author
-Keerthi Shivapur
+#### POST http://localhost:8080/api/v1/shipping-charge/calculate
+
