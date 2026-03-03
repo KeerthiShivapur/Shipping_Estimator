@@ -107,7 +107,7 @@ This design allows easy extension for future delivery types without modifying ex
 
 ✨ Key Highlights
 
-## ✔ Clean layered architecture
+###### ✔ Clean layered architecture
 ## ✔ Strategy Pattern for extensible delivery logic
 ## ✔ Haversine formula for geographic distance calculation
 ## ✔ Dynamic transport mode selection
